@@ -68,7 +68,7 @@
 
     // carousel demo
     $('#img-gallery').carousel({
-    	interval: 4000,
+    	interval: 5000,
     	pause: 'hover'	
     })
 

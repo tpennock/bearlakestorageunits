@@ -100,15 +100,17 @@
 									<abbr title="Home Phone">h:</abbr> 435-258-2139
 									<br />
 									<abbr title="Cell Phone">c:</abbr> 435-287-5070
+								</address>
+							</div>
+							<div class="span7">
+								<address>
 									<strong>Email</strong>
 									<br>
 									<a href="mailto: sa_ripplinger@comcast.net">sa_ripplinger@comcast.net</a>
 								</address>
 							</div>
-							<div class="span7">
-								<p class="lead"><em>We'd love to hear from you!</em></p>
-							</div>
 						</div>
+						<p class="lead"><em>We'd love to hear from you!</em></p>
 					</div>
 					<div class="span5">
 						<div id="img-gallery" class="carousel slide">
