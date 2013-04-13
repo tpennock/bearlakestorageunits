@@ -128,7 +128,7 @@
 						<p class="lead"><em>We'd love to hear from you!</em></p>
 					</div>
 					<div class="span5">
-						<div id="img-gallery" class="carousel slide">
+						<div id="img-gallery" class="carousel slide img-polaroid">
 							<!-- <ol class="carousel-indicators">
 								<li data-target="#img-gallery" data-slide-to="0" class="active"></li>
 								<li data-target="#img-gallery" data-slide-to="1"></li>
