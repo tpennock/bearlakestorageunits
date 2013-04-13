@@ -161,7 +161,7 @@
 			<hr />
 			
 			<section id="location" class="text-center">
-				<iframe width="55%" height="500" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=2332+Kimball+Lane,+Garden+City,+UT&amp;aq=0&amp;oq=2332+kimbal+lane,+garden&amp;sll=39.499761,-111.547028&amp;sspn=8.949683,17.149658&amp;t=h&amp;ie=UTF8&amp;hq=&amp;hnear=2332+Kimball+Ln,+Garden+City,+Utah+84028&amp;ll=41.904465,-111.391254&amp;spn=0.016864,0.033495&amp;z=14&amp;output=embed"></iframe>
+				<iframe width="100%" height="500" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=2332+Kimball+Lane,+Garden+City,+UT&amp;aq=0&amp;oq=2332+kimbal+lane,+garden&amp;sll=39.499761,-111.547028&amp;sspn=8.949683,17.149658&amp;t=h&amp;ie=UTF8&amp;hq=&amp;hnear=2332+Kimball+Ln,+Garden+City,+Utah+84028&amp;ll=41.904465,-111.391254&amp;spn=0.016864,0.033495&amp;z=14&amp;output=embed"></iframe>
 				<p>
 					<address class="text-center">
 						2332 Kimball Ln.
