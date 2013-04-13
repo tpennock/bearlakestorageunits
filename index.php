@@ -83,9 +83,34 @@
 			
 			<hr />
 			
-			<div class="row-fluid">
-				<div class="span5">
-					<section id="pictures">
+			<section id="info">
+				<div class="row-fluid">
+					<div class="span7">
+						<h2>Pricing</h2>
+						<p class="lead">
+							Pricing is competitve and starts at just <strong>$50/month</strong>. Call or <a href="mailto: sa_ripplinger@comcast.net">email</a> us to discuss unit availability, pricing and options, or any other questions you might have.
+						</p>
+					
+						<h2>Contact</h2>
+						<div class="row-fluid">
+							<div class="span5">
+								<address>
+									<strong>Sarah Ann Ripplinger</strong>
+									<br>
+									<abbr title="Home Phone">h:</abbr> 435-258-2139
+									<br />
+									<abbr title="Cell Phone">c:</abbr> 435-287-5070
+									<strong>Email</strong>
+									<br>
+									<a href="mailto: sa_ripplinger@comcast.net">sa_ripplinger@comcast.net</a>
+								</address>
+							</div>
+							<div class="span7">
+								<p class="lead"><em>We'd love to hear from you!</em></p>
+							</div>
+						</div>
+					</div>
+					<div class="span5">
 						<div id="img-gallery" class="carousel slide">
 							<!-- <ol class="carousel-indicators">
 								<li data-target="#img-gallery" data-slide-to="0" class="active"></li>
@@ -112,32 +137,9 @@
 							<a class="carousel-control left" href="#img-gallery" data-slide="prev">&lsaquo;</a>
 							<a class="carousel-control right" href="#img-gallery" data-slide="next">&rsaquo;</a>
 						</div>
-					</section>
+					</div>
 				</div>
-				<div class="span7">
-					<section id="info">
-							<h2>Pricing</h2>
-							<p>
-								Pricing is competitve and starts at just <strong>$50/month</strong>. Call or <a href="mailto: sa_ripplinger@comcast.net">email</a> us to discuss unit availability, pricing and options, or any other questions you might have.
-							</p>
-						
-							<h2>Contact</h2>
-							<address>
-								<strong>Sarah Ann Ripplinger</strong>
-								<br>
-								<abbr title="Home Phone">h:</abbr> 435-258-2139
-								<br />
-								<abbr title="Cell Phone">c:</abbr> 435-287-5070
-							</address>
-	
-							<address>
-								<strong>Email</strong>
-								<br>
-								<a href="mailto: sa_ripplinger@comcast.net">sa_ripplinger@comcast.net</a>
-							</address>
-					</section>
-				</div>
-			</div>
+			</section>
 			
 			<hr />
 			

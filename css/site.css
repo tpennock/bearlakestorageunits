@@ -76,7 +76,7 @@ body > .navbar .brand:hover {
 /* padding for in-page bookmarks and fixed navbar */
 section {
   padding-top: 30px;
-  padding-bottom: 30px;
+  padding-bottom: 20px;
 }
 section > .page-header,
 section > .lead {
@@ -193,7 +193,7 @@ hr.soften {
   background-size: cover;
   opacity: 1;
 }
-@media
+/*@media
 only screen and (-webkit-min-device-pixel-ratio: 2),
 only screen and (   min--moz-device-pixel-ratio: 2),
 only screen and (     -o-min-device-pixel-ratio: 2/1) {
@@ -202,7 +202,7 @@ only screen and (     -o-min-device-pixel-ratio: 2/1) {
     background-size: 150px 150px;
   }
 
-}
+}*/
 
 /* Masthead (docs home)
 ------------------------- */
