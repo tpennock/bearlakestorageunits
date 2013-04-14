@@ -1,4 +1,4 @@
-SweetwaterStorageUnits.com
+BearLakeStorageUnits.com
 ========
 
-Grandma's website.
+Sweetwater Storage website.
