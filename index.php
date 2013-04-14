@@ -83,7 +83,7 @@
 						<p>
 							<ul>
 								<li>
-									Versatile Units
+									Versatile Units - Perfect for storing RVs, Boats, Home items or used for Commercial Space
 								</li>
 								<li>
 									Convenient location
