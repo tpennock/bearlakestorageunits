@@ -2,10 +2,20 @@
 <html lang="en">
 	<head>
 		<meta charset="utf-8">
-		<title>SweetwaterStorageUnits.com</title>
+		<title>Sweetwater Storage at Bear Lake</title>
+		
+		<meta name="robots" content="index,follow" />
+
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-		<meta name="description" content="">
-		<meta name="author" content="">
+		<meta name="description" content="Bear Lake Storage Units - Sweetwater Storage - Versatile Rental Space for RV, Boat and Home Storage or Commercial Use">
+		<meta name="keywords" content="storage units, bear lake storage units, sweetwater storage, storage units at bear lake, storage units garden city, rental space, rv storage, boat storage, home storage, commercial space">
+		<meta name="author" content="Taylor Pennock">
+		
+		<meta prefix="og: http://ogp.me/ns#" property="og:type" content="article" />
+		<meta prefix="og: http://ogp.me/ns#" property="og:title" content="Sweetwater Storage at Bear Lake" />
+		<meta prefix="og: http://ogp.me/ns#" property="og:description" content="Bear Lake Storage Units - Sweetwater Storage - Versatile Rental Space for RV, Boat and Home Storage or Commercial Use" />
+		<meta prefix="og: http://ogp.me/ns#" property="og:url" content="http://bearlakestorageunits.com" />
+		<meta prefix="og: http://ogp.me/ns#" property="og:site_name" content="Sweetwater Storage at Bear Lake" />
 
 		<!-- Le styles -->
 		<link href="css/bootstrap.css" rel="stylesheet">
