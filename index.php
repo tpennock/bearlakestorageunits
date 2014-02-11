@@ -118,7 +118,14 @@
 					
 						<h2>Contact</h2>
 						<div class="row-fluid">
-							<div class="span12">
+							<div class="span5">
+								<address>
+									<strong>Sarah Ann Ripplinger</strong>
+									<br>
+									<abbr title="Phone">p:</abbr> 435-258-2139
+								</address>
+							</div>
+							<div class="span7">
 								<address>
 									<strong>Email</strong>
 									<br>
