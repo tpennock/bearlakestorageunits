@@ -118,16 +118,7 @@
 					
 						<h2>Contact</h2>
 						<div class="row-fluid">
-							<div class="span5">
-								<address>
-									<strong>Sarah Ann Ripplinger</strong>
-									<br>
-									<abbr title="Home Phone">h:</abbr> 435-258-2139
-									<br />
-									<abbr title="Cell Phone">c:</abbr> 435-287-5070
-								</address>
-							</div>
-							<div class="span7">
+							<div class="span12">
 								<address>
 									<strong>Email</strong>
 									<br>
